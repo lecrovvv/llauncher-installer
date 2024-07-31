@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Legacy Launcher
+Comment=A minecraft launcher.
+Exec=java -jar $HOME/.legacy_launcher/LegacyLauncher_legacy.jar
+Icon=~/.local/share/applications/logo.png
+Terminal=false
+Type=Application
+Categories=Game;
