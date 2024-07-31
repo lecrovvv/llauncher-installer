@@ -2,6 +2,7 @@
 
 clear
 
+echo "Running directly. Made by $sudouser"
 echo "Choose an option (JDK 21 required):"
 echo "1. Install Legacy Launcher"
 echo "2. Quit"
